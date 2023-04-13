@@ -14,7 +14,7 @@ int main()
     int a=x+y;
   
     printf("%d",a);
-    a=a-10;
+    a=a+10;
     printf("%d",a);
     return 0;
 }
