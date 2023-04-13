@@ -7,30 +7,12 @@ Welcome to GDB Online.
 
 *******************************************************************************/
 #include <stdio.h>
+int fun(){
+    printf("hekldwbuerfuenfuieneinvduicndi")
+   }
 
 int main()
 {
-    int x=10,y=20;
-    int a=x+y;
-    printf("%d",a);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    a=a*2;
-    printf("%d",a);
+   fun();
     return 0;
 }
