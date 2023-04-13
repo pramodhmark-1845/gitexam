@@ -11,10 +11,26 @@ Welcome to GDB Online.
 int main()
 {
     int x=10,y=20;
-    int a=x-y;
-  
+    int a=x+y;
     printf("%d",a);
-    a=a+10;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    a=a*2;
     printf("%d",a);
     return 0;
 }
